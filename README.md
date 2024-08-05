@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @leafofautumn06
+- 👀 I’m interested in Game development
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on game development projects
+- 📫 How to reach me-you can contact me over instagram or linkedIn both link have been added in my profile
